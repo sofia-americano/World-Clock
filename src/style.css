@@ -63,3 +63,11 @@ body {
     font-size: 18px;
     color: rgba(0, 0, 0, 0.8);
   }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: rgba(0, 0, 0, 0.8);
+  }
